@@ -1,0 +1,24 @@
+ul li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header {
+  width: 100%;
+  height: 50px;
+  border-bottom: #e4e4e4;
+  background-color: #BDD4DE;
+  line-height: 50px;
+}
+
+.headerContent {
+  max-width: calc(768px + 16px * 2);
+  padding: 0 16px;
+}
+
+.headerMenu {
+
+}
